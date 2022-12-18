@@ -1,0 +1,55 @@
+/* Element Selector..............
+
+/* h1 {
+    color: darkred;
+}
+
+p {
+    border:  2px solid blue;
+} */
+
+
+/*  Universal (*) Selector uses for select all the html element */
+/* * {
+    padding: 0;
+    margin: 20px;
+    
+} */
+
+
+
+/* class selector.................. */
+
+
+/* .red-border {
+    background-color: cyan;
+    border: 5px solid green;
+} */
+
+
+/* id selector................... */
+
+/* #lorem-text {
+    font-weight: bold;
+} */
+
+
+/* Grouping Selector............ */
+
+/* .red-border,#lorem-text,h1 {
+    font-style :italic;
+}  */
+
+
+/* Nested Selector ............ */
+
+header {
+    font-size: 32px;
+
+}
+
+header h1 {
+    background-color:cyan;
+    width: 10em;
+    
+}
